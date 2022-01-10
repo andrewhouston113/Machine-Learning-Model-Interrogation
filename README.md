@@ -52,7 +52,7 @@ A tutorial has been provided withing the .ipynb on a simulated dataset. To apply
 Should you use this model interrogation in your work please cite the following:
 
 ```
-Houston, AD., Cosma, G., Turner P., Bennett AN. (2021). Predicting surgery outcomes for chronic exertional compartment syndrome in UK military personnel using a machine learning framework with embedded ‘trust by interrogation’ strategies.
+Houston, AD., Cosma, G., Turner P., Bennett AN. (2021). Predicting surgical outcomes for chronic exertional compartment syndrome using a machine learning framework with embedded trust by interrogation strategies. Sci Rep 11, 24281 (2021). https://doi.org/10.1038/s41598-021-03825-4
 
 ```
 
